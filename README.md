@@ -1,7 +1,3 @@
-# corticosteroid-receptor-chipseq-analysis
-ChIP-seq differential binding analysis of glucocorticoid and mineralocorticoid receptor occupancy in rat hippocampus using DiffBind, DESeq2 and Bioconductor.
-
-
 # ChIP-seq Analysis of Corticosteroid Receptor Binding Dynamics Across Circadian and Stress States in the Rat Hippocampus
 
 ## About This Project
